@@ -13,7 +13,7 @@ header {
     color: #fff;
     padding: 10px;
     text-align: center;
-    font-size: .6;
+    font-size: 1.6;
 
 }
 
@@ -25,6 +25,7 @@ main {
 h1 {
     margin: 10px;
     text-align: center;
+    font-size: 1;
 }
 
 h2 {
@@ -42,7 +43,7 @@ section {
     border: 1px solid rgb(0 0 0/ 10%);
     padding: 10px;
     background-color: #abe;
-    font-size: .5rem;
+    font-size: .8rem;
 }
 
 section p {
@@ -58,5 +59,5 @@ footer {
     color: #fff;
     padding: 10px;
     text-align: center;
-    font-size: .5rem;
+    font-size: .8rem;
 }

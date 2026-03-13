@@ -13,7 +13,7 @@ header {
     color: #fff;
     padding: 10px;
     text-align: center;
-    font-size: 1rem;
+    font-size: .9rem;
 
 }
 
@@ -42,7 +42,7 @@ section {
     border: 1px solid rgb(0 0 0/ 10%);
     padding: 10px;
     background-color: #abe;
-    font-size: .9rem;
+    font-size: .8rem;
 }
 
 section p {
@@ -58,5 +58,5 @@ footer {
     color: #fff;
     padding: 10px;
     text-align: center;
-    font-size: .9rem;
+    font-size: .8rem;
 }

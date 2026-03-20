@@ -2,6 +2,7 @@
     "recommendations": [
         "yandau.five-server",
         "streetsidesoftware.code-spell-checker",
-        "ritwickdey.liveserver"
+        "ritwickdey.liveserver",
+        "ms-vscode.live-server"
     ]
 }

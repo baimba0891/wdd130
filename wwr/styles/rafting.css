@@ -7,13 +7,9 @@
 
  :root {
      --primary-color: #055a05;
-     /* forest green */
      --secondary-color: #f4a261;
-     /* warm sand */
      --accent1-color: #264653;
-     /* dark slate blue */
      --accent2-color: #e9c46a;
-     /* light golden yellow */
      --heading-font: "Times New Roman", "Georgia", serif;
      --body-font: Ariel, Helvetica, sana-serif;
  }
@@ -49,8 +45,8 @@
      padding: 8px;
  }
 
- .socialmedia a {
-     text-decoration: 0;
+ . socialmedia a {
+     text-decoration: none;
  }
 
  .hero {
@@ -72,7 +68,6 @@
      opacity: 0.7;
      background-color: var(--accent1-color);
      color: #fff;
-     /* white tex-make sure there is enough contrast with the background-color */
  }
 
  .hero article img {

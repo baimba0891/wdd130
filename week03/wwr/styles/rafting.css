@@ -7,8 +7,8 @@
     /* dark slate blue */
     --accent2-color: #e9c46a;
     /* golden yellow */
-    --heading-font: "Georgia", serif;
-    --body-font: Arial, sans-serif;
+    --heading-font: "Times New Roman", "Georgia", serif;
+    --body-font: Arial, Helvetica, sans-serif;
 }
 
 * {
@@ -176,4 +176,7 @@ figcaption {
     margin-top: 0rem;
 }
 
-.hero article img {}
+.hero article img {
+    float: right;
+    width: 125px;
+}

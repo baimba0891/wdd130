@@ -7,7 +7,13 @@
 
  :root {
      --primary-color: #055a05;
+     /* forest green */
+     --secondary-color: #f4a261;
+     /* warm sand */
      --accent1-color: #264653;
+     /* dark slate blue */
+     --accent2-color: #e9c46a;
+     /* light golden yellow */
      --heading-font: "Times New Roman", "Georgia", serif;
      --body-font: Ariel, Helvetica, sana-serif;
  }
@@ -23,11 +29,6 @@
 
  }
 
- header img {
-     max-width: 100%;
-     height: auto;
- }
-
  body {
      font-family: var(--body-font);
      color: var(--accent1-color);
@@ -38,12 +39,6 @@
  footer {
      width: 840px;
      margin: 0 auto;
- }
-
- h1,
- h2 {
-     font-family: var(--heading-font);
-     color: var(--primary-color);
  }
 
  nav,

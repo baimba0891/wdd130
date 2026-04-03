@@ -22,7 +22,6 @@ header {
     color: var(--accent2-color);
     display: grid;
     grid-template-columns: 150px auto;
-    /* logo + nav */
     align-items: center;
     padding: 1rem;
 }
@@ -125,5 +124,9 @@ figcaption {
     text-align: justify;
     font-size: 0.9rem;
     margin-top: 0;
-    color: var(--accent2-color);
+    color: #e9c46a;
+}
+
+.spaced {
+    margin-bottom: 1in;
 }

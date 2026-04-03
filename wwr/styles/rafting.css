@@ -82,13 +82,10 @@ h2 {
 }
 
 .hero article {
-    position: relative;
-    bottom: 20px;
-    left: 20px;
-    background-color: var(--secondary-color);
-    padding: 12px;
+    bottom: .1px;
     border-radius: 8px;
     max-width: 300px;
+    float: right;
 }
 
 footer {
@@ -113,11 +110,6 @@ section,
 article {
     margin: 16px;
     padding: 8px;
-}
-
-.hero article img {
-    float: right;
-    width: 125px;
 }
 
 header {
@@ -209,8 +201,4 @@ figcaption {
     color: #055a05 text-align: justify;
     font-size: 0.9rem;
     margin-top: 0rem;
-}
-
-.spaced {
-    margin-bottom: 1in;
 }

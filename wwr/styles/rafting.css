@@ -46,7 +46,7 @@ h1 {
     padding: 16px;
     text-align: center;
     opacity: 0.7;
-    background-color: #264653;
+    background-color: variant(--accent1-color);
     color: #fff;
 }
 
@@ -172,8 +172,7 @@ nav a:hover {
 }
 
 figcaption {
-    font-size,
-    0.9rem;
+    color: #055a05 font-size: 0.9rem;
     margin-top: 0rem;
 }
 

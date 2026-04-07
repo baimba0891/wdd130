@@ -189,3 +189,10 @@ footer {
     width: 32px;
     height: 32px;
 }
+
+.history-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    align-items: center;
+}

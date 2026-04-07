@@ -1,3 +1,16 @@
+:root {
+    --primary-color: #055a05;
+    /* forest green */
+    --secondary-color: #f4a261;
+    /* warm sand */
+    --accent1-color: #264653;
+    /* dark slate blue */
+    --accent2-color: #e9c46a;
+    /* golden yellow */
+    --heading-font: "Times New Roman", "Georgia", serif;
+    --body-font: Arial, Helvetica, sans-serif;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -191,7 +204,7 @@ footer {
 }
 
 .history-layout {
-    display: grid;
+    display: flex;
     grid-template-columns: 1fr 1fr;
     gap: 16px;
     align-items: center;
